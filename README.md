@@ -1,4 +1,4 @@
-# composer-php-5.6
+# composer-php-5.6 [![Build Status](https://travis-ci.org/PathMotion/composer-php-5.6.svg?branch=master)](https://travis-ci.org/PathMotion/composer-php-5.6)
 Composer image with Php 5.6 and XDebug extension enabled for running CI with code coverage capabilities.
 
 ## Description
