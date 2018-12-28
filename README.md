@@ -9,5 +9,5 @@ docker build -t image_name .
 
 Create the container from the image
 ```
-docker run -it --rm -v $PWD:/app image_raf
+docker run -it --rm -v $PWD:/app image_name
 ```
