@@ -7,7 +7,7 @@ This image is based on [prooph/docker-files](https://github.com/prooph/docker-fi
 It contains:
  - php 5.6.33
  - composer 1.6.3
- - XDebug 5.5
+ - XDebug 2.5.5
 
 ## Usage
 ### Build the image
