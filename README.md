@@ -23,7 +23,7 @@ docker run -it --rm -v $PWD:/app image_name install
 
 If you need more commands, run `bash` from the container:
 ```
-docker run -it --rm --entrypoint /bin/bash -v $PWD:/app raf-php
+docker run -it --rm --entrypoint /bin/bash -v $PWD:/app image_name
 ```
 Then, run any commands like `phpunit` for instance:
 ```
